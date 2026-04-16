@@ -1,6 +1,6 @@
 ---
 title: "2D Scatter Density as a Visual Conditional Independence Test (v26)"
-date: 2026-04-16 00:00:00 +0700
+date: 2026-04-16 09:00:00 +0700
 categories: [Research, Causal Discovery]
 tags: [causal-inference, deep-learning, conv2d, thesis]
 math: true

@@ -24,6 +24,7 @@ avatar: # path to your avatar image, e.g. /assets/img/avatar.jpg
 theme_mode: "dark"
 
 toc: true  # table of contents on posts
+future: true
 
 paginate: 10
 
