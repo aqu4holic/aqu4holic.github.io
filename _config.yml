@@ -1,8 +1,10 @@
 lang: en
 timezone: Asia/Ho_Chi_Minh
 
+theme: jekyll-theme-chirpy
+
 title: aquaholic's space
-tagline: Building things that work with intuition.
+tagline: Building things that work - with intuition.
 description: >-
   Personal blog by aquaholic — ML engineer @ MoMo, CS student @ VNU-UET.
   Writing about everything that interests me.
@@ -15,13 +17,13 @@ github:
 
 social:
   name: Thanh-Phat Nguyen (Nguyễn Thành Phát)
-  email: # add your email if you want
+  email: aquaholic1509@gmail.com
   links:
     - https://github.com/aqu4holic
 
-avatar: # path to your avatar image, e.g. /assets/img/avatar.jpg
+avatar: /assets/img/avatar.jpg
 
-theme_mode: "dark"
+# theme_mode: "dark"
 
 toc: true  # table of contents on posts
 future: true
